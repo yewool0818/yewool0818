@@ -1,4 +1,4 @@
-### Hi there 👋  I'm Yewool!
+### Hi there 👋  I'm Yewool 👩‍💻!
 
 <!--
 - 🔭 I’m currently working on ...
