@@ -10,7 +10,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yewool0818&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yewool0818&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 
 **📰 blog** : https://creamilk88.tistory.com/
