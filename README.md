@@ -1,8 +1,10 @@
 ### Hi there 👋  I'm Yewool 👩‍💻!
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
+- 🔭 I’m currently working on **LINE Bank Japan Project**
+- 🌱 I’m currently learning on **Java Script**
+
+<--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -14,3 +16,5 @@
 
 
 **📰 blog** : https://creamilk88.tistory.com/
+**🏢 Company** : Bankware Global
+
