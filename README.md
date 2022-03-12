@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on **LINE Bank Japan Project**
-- 🌱 I’m currently learning on **Java Script**
+- 🌱 I’m currently learning on **Java and Algorithm**
 
 <!--
 - 👯 I’m looking to collaborate on ...
